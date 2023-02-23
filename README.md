@@ -68,7 +68,7 @@ yarn install
 
 ## 🚀 Deploy 
 
-⇒ 
+⇒ https://wordle-frontend-murex.vercel.app/
 
 Vercel : [https://vercel.com/](https://vercel.com/)
 
