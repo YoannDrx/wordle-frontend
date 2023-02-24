@@ -70,8 +70,6 @@ yarn install
 
 ⇒ https://wordle-frontend-nine.vercel.app/
 
-Vercel : [https://vercel.com/](https://vercel.com/)
-
 ## 🧑‍💻 Authors
 
 Yoann Drx, Paris, France 
